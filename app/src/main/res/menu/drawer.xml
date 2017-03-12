@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/demo_checkmark"
+            android:checked="false"
+            android:title="@string/check_mark" />
+        <item
+            android:id="@+id/demo_windowsxprogressbar"
+            android:checked="false"
+            android:title="@string/windows_x_progress_bar" />
+
+    </group>
+</menu>

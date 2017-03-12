@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimatedView Demo</string>
+    <string name="check_mark">Check Mark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="do_something">Do Something</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="windows_x_progress_bar">Windows 10 Progress Bar</string>
+</resources>
